@@ -1,4 +1,4 @@
-# Prédiction du Churn Bancaire 📊🏦
+# Prédiction du Churn Bancaire 
 
 Ce projet a pour objectif d'analyser les facteurs influençant le départ des clients (churn) d'une banque, à partir d'un jeu de données réel provenant de Kaggle. À travers une analyse exploratoire, une visualisation et l'entraînement de modèles de machine learning, nous cherchons à identifier les profils à risque de départ.
 
